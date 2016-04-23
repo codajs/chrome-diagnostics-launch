@@ -1,0 +1,14 @@
+{
+  "name": "chrome-diagnostics-launch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/chrome-diagnostics-launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casper Beyer (http://caspervonb.com)",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-diagnostics-adapter": "github:codajs/chrome-diagnostics-adapter"
+  }
+}
